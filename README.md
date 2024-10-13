@@ -11,8 +11,8 @@
   函数图像绘制工具，方便初中生和高中生（以后可能会包括大学生）绘制函数图像。<br>
   意在培养学生的抽象化思维，帮助学习。<br><br>
 
-  [![NPM version](https://img.shields.io/badge/vue-2.0-green)](https://cn.vuejs.org/)
-  [![function--plot](https://img.shields.io/badge/function--plot-1.22.7-blue)](https://mauriciopoppe.github.io/function-plot/)
+  [![NPM version](https://img.shields.io/badge/vue-2.7.16-green)](https://cn.vuejs.org/)
+  [![function--plot](https://img.shields.io/badge/function--plot-1.25.0-blue)](https://mauriciopoppe.github.io/function-plot/)
   [![bootstrap](https://img.shields.io/badge/bootstrap-5.3.3-ff69b4)](https://v5.bootcss.com/)
 
 </div>
